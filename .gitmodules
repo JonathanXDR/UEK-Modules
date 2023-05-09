@@ -4,3 +4,6 @@
 [submodule "UEK-210-Portfolio"]
 	path = UEK-210-Portfolio
 	url = https://github.com/JonathanXDR/UEK-210-Portfolio
+[submodule "UEK-295-Portfolio"]
+	path = UEK-295-Portfolio
+	url = https://github.com/JonathanXDR/UEK-295-Portfolio
