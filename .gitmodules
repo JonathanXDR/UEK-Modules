@@ -1,0 +1,15 @@
+[submodule "UEK-335"]
+	path = UEK-335
+	url = https://github.com/JonathanXDR/UEK-335
+[submodule "UEK-210"]
+	path = UEK-210
+	url = https://github.com/JonathanXDR/UEK-210
+[submodule "UEK-295"]
+	path = UEK-295
+	url = https://github.com/JonathanXDR/UEK-295
+[submodule "UEK-294"]
+	path = UEK-294
+	url = https://github.com/JonathanXDR/UEK-294
+[submodule "UEK-223"]
+	path = UEK-223
+	url = https://github.com/JonathanXDR/UEK-223
